@@ -1,3 +1,5 @@
+// add by gdxxj 06-15 23:43
+
 package temp;
 public class Player {
 int number = 0;  
