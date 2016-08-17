@@ -1,4 +1,4 @@
-package com.first0811;
+package com.ddd1;
 
 public interface IPlayGame {
 	

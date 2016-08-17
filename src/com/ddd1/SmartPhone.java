@@ -1,4 +1,4 @@
-package com.demo02;
+package com.ddd1;
 
 public class SmartPhone extends Phone implements IPlayGame {
 

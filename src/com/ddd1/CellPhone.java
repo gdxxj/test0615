@@ -1,4 +1,4 @@
-package com.demo02;
+package com.ddd1;
 
 public class CellPhone extends Phone {
 
@@ -12,7 +12,7 @@ public class CellPhone extends Phone {
 	@Override
 	public void sendMess() {
 		
-		System.out.println("手机可以发短信");
+		System.out.println("手机发短信");
 
 	}
 

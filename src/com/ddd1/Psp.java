@@ -1,11 +1,11 @@
-package com.first0811;
+package com.ddd1;
 
 public class Psp implements IPlayGame {
 
 	@Override
 	public void playGame() {
 		
-		System.out.println("PSP可以打游戏");
+		System.out.println("PSP可以玩游戏");
 
 	}
 
